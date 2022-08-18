@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+
+.tres{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   background-color: rgb(255, 251, 6);
+}
+.logo{
+    width: 130px;
+}
+
+.juntar{
+    display: flex;
+    color: rgb(14, 0, 0);
+    align-items: center;
+    
+}
+.juntar a{
+    margin-right: 50px ;
+}
+
+.imagem{
+    width: 30%;
+    height: 30%;
+}
