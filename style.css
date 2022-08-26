@@ -24,15 +24,16 @@ body{
     color: black;
 }
 .menu1:hover{
-    font-size: 20px;
+    transform : scale(1.05);
     color: black;
+    
 }
 .menu2:hover{
-    font-size: 20px;
+    transform : scale(1.05);
     color: black;
 }
 .menu3:hover{
-    font-size: 20px;
+    transform : scale(1.05);
     color: black;
 }
 
